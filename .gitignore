@@ -1,0 +1,12 @@
+# ignore virtual environment
+venv/
+# ignore Python bytecode files
+__pycache__/
+# ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/ 
+
+# ignore large files more than 20 MB
+if filesize > 20MB
+# ignore data files
+if data/ >20MB
+
