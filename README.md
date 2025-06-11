@@ -3,7 +3,7 @@
 
 This lab focuses on fundamental data preprocessing techniques including tidying, cleaning, imputing missing values, and outlier detection using Python. The datasets used include the Cars dataset (for cleaning and imputation) and the Diabetes dataset (for outlier detection).
 
-**Objectives**
+### **Objectives**
 
 ---
 - Practiced tidying on pew-raw dataset and billboard dataset.
@@ -14,7 +14,7 @@ This lab focuses on fundamental data preprocessing techniques including tidying,
 - Ensure replicability through dependency management and environment testing.
 - Utilize Git and GitHub for version control with proper commit practices.
 
-**Project Structure**
+### **Project Structure**
 
 ---
 
@@ -25,7 +25,7 @@ This lab focuses on fundamental data preprocessing techniques including tidying,
           `pew-raw.csv` diabetes dataset taken from Sklearn library.
 
 
-**Instructions**
+### **Instructions**
 
 ---
 - Clone the repo
@@ -34,7 +34,7 @@ This lab focuses on fundamental data preprocessing techniques including tidying,
 - Run the notebook step-by-step
 
 
-**Reference**
+### **Reference**
 
 ---
 I used chatgpt and https://www.geeksforgeeks.org/detect-and-remove-the-outliers-using-python/ for the coding.
