@@ -1,7 +1,13 @@
 # ignore virtual environment
 venv/
-# ignore Python bytecode files
+# ignore Python cache files
 __pycache__/
+# ignore compiled Python files
+*.pyc
+# ignore log files
+*.log
+# ignore environment variables file
+.env
 # ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints/ 
 
