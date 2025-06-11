@@ -28,10 +28,10 @@ This lab focuses on fundamental data preprocessing techniques including tidying,
 **Instructions**
 
 ---
-Clone the repo
-Create a virtual environment `python -m venv venv`
-Install dependencies: `pip install -r requirements.txt`
-Run the notebook step-by-step
+- Clone the repo
+- Create a virtual environment `python -m venv venv`
+- Install dependencies: `pip install -r requirements.txt`
+- Run the notebook step-by-step
 
 
 **Reference**
